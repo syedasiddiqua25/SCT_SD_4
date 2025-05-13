@@ -1,5 +1,4 @@
-## 📸 Sample Output
+## Output Screenshot
 
-Here is the output of the Sudoku Solver:
+![Excel Output](output/excel.png)
 
-![Output](output/excel.png)
